@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/COMP1632JohnU/insurance-pricing-ml-model/blob/main/jnu_international_price_prediction_7years_v3.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/COMP1632JohnU/insurance-pricing-ml-model/main?filepath=jnu_international_price_prediction_7years_v3.ipynb)
+
 # 🧠 Insurance Price Prediction Model  
 ### MSc Big Data & Business Intelligence (Distinction, 2020)  
 #### by John Uzoukwu | JNUS Associates Ltd  
